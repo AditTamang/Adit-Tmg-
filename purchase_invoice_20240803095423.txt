@@ -1,0 +1,12 @@
+Purchase Invoice
+Date: 2024-08-03 09:54:23
+Employee Name: adit
+
+Items:
+  - 3: Achham furniture - Sleeper Sofa | Quantity: 8 | Total Amount: $1600.00
+  - 5: Kohler Co. - Armchair | Quantity: 4 | Total Amount: $600.00
+
+Total Amount Without VAT: $2200.00
+VAT Amount: $286.00
+Shipping Cost: $150.00
+Total Amount: $2636.00

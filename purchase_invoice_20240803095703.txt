@@ -1,0 +1,12 @@
+Purchase Invoice
+Date: 2024-08-03 09:57:03
+Employee Name: adit
+
+Items:
+  - 5: Kohler Co. - Armchair | Quantity: 6 | Total Amount: $900.00
+  - 6: Masco Corporation - Desk chair | Quantity: 7 | Total Amount: $700.00
+
+Total Amount Without VAT: $1600.00
+VAT Amount: $208.00
+Shipping Cost: $400.00
+Total Amount: $2208.00

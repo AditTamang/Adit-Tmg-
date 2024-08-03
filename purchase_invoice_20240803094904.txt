@@ -1,0 +1,9 @@
+Purchase Invoice
+Date: 2024-08-03 09:49:04
+Employee Name: asda
+
+Items:
+  - 4: Kimball International Inc. - Corner sofa | Quantity: 8 | Total Amount: $2800.00
+  - 5: Kohler Co. - Armchair | Quantity: 1 | Total Amount: $150.00
+
+Total Amount: $3333.50

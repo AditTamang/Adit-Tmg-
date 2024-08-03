@@ -1,0 +1,5 @@
+Sale Invoice
+Date: 2024-08-03 09:47:00
+Customer Name: asa
+
+Items:
